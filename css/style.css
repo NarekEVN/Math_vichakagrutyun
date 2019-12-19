@@ -1,0 +1,11 @@
+*{
+	font-family: sans-serif;
+}
+table{
+	border-collapse: collapse;
+}
+input{
+	border: 1px solid #eee;
+	width: 50px;
+	padding: 5px;
+}
